@@ -8,4 +8,4 @@ Node (v10.14.1)<br>
 WebSocket (socket.io v2.2.0)<br>
 WebRTC<br>
 
-WebRTCでP2P通信する情報をやりとりするためにnode.jsで情報交換用のサーバ（シグナリングサーバというようです）を構築
+WebRTCでP2P通信する情報をやりとりするためにnode.jsで情報交換用のサーバ（シグナリングサーバ）を構築
