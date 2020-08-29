@@ -1,11 +1,12 @@
 # WebRTC-Core
-node.js WebRTC画面共有
 
-## 技術
+node.js WebRTC screen sharing
+
+## Technology
 React (v16.9.0)<br>
-Material UI (v4.4.0)<br>
+Material UI (v4.4.0) <br>
 Node (v10.14.1)<br>
 WebSocket (socket.io v2.2.0)<br>
 WebRTC<br>
 
-WebRTCでP2P通信する情報をやりとりするためにnode.jsで情報交換用のサーバ（シグナリングサーバ）を構築
+Build a server (signaling server) for information exchange with node.js to exchange information for P2P communication with WebRTC
